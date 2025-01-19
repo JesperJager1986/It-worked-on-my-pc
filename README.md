@@ -21,4 +21,3 @@ Go to Edit configuration | Run/debug interpreter
 setup: the before launch -> 
 
 <img alt="Build the docker container before run" height="80" src="./image/img.png" title="Before run" width="80"/>
-``
