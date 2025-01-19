@@ -10,9 +10,15 @@ Docker
 
 ## Tutorial
 
-Create a Dockerfile 
+Use the DockerFile in this repo or create a new Dockerfile 
 
 Settings | Project | Python Interpreter | add interpreter
 
-<img alt="Build the docker container before run" height="20" src="./It-worked-on-my-pc/image/img.png" title="Before run" width="20"/>
+getting the docker to buildt the image before each run 
+
+Go to Edit configuration | Run/debug interpreter 
+
+setup: the before launch -> 
+
+<img alt="Build the docker container before run" height="80" src="./image/img.png" title="Before run" width="80"/>
 ``
