@@ -14,5 +14,5 @@ Create a Dockerfile
 
 Settings | Project | Python Interpreter | add interpreter
 
-![Alt Text](/Users/jesperthoftillemannjaeger/PycharmProjects/It-worked-on-my-pc/image/img.png "Build the docker container before run")
+<img alt="Build the docker container before run" height="20" src="./It-worked-on-my-pc/image/img.png" title="Before run" width="20"/>
 ``
