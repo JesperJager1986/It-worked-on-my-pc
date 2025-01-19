@@ -6,8 +6,11 @@ RUN pip install --upgrade pip
 WORKDIR /app
 
 COPY requirements.txt .
+RUN pip install --no-cache-dir numpy
 
 RUN pip install -r requirements.txt
+
+
 
 
 COPY . .
